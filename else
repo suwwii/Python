@@ -1,0 +1,15 @@
+c = 10
+
+d = 4
+
+if c < d:
+
+    print ('c is less than d’)  
+
+else:
+
+    print ('c is NOT less than d’)
+    
+    Result
+    
+    c is NOT less than d
