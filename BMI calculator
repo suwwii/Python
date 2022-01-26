@@ -1,0 +1,27 @@
+name=‘Suvi’
+
+height_m=1
+
+weight_kg=68
+
+
+
+bmi = weight_kg / (height_m * height_m)
+
+print (‘bmi: ‘)
+
+print (bmi)
+
+
+
+if bmi < 25:
+
+    print (Suvi)
+
+    print (‘is not overweight’)
+
+else:
+
+    print (Suvi)
+
+    print (“is overweight”)
